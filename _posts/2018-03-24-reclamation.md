@@ -22,7 +22,7 @@ the monies deposited by the mining firms are not enough to cover the estimated r
  is not really happy news either.
 
 
-It definitely looks like its possibly to readjust the instruments to give better results. The most important thing is to have a good estimate on the
+It definitely looks like its possible to readjust the instruments to give better results. The most important thing is to have a good estimate on the
 future reclamation costs at the beginning of the mine's life. Of course, this estimate should be as close as possible to the real costs, which are revealed
 in the future when the mine is shut-down and the reclamation is actually performed. Let's take an example from 
 [Mitchell and Casman (2011)](https://pubs.acs.org/doi/abs/10.1021/es2021796),
