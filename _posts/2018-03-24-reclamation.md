@@ -51,5 +51,5 @@ sufficient funds for the eventual reclamation.
 2. If the present value cost is based on net benefit maximization, it is in the mining firm's interest to overstate the cost, since it means lower required reclamation effort and cost.
 
 Either way, and to say it plainly, shit hits the streams. However, even though the mining firm has better information about the future reclamation costs, the regulator is not totally
-toothless; in principle the regulator can design a reclamation contract that the firm finds profitable to accept and which yields the maximal (expected) benefit for the society.
+toothless; by following certain principles from economic literature, the regulator can design a reclamation contract that the firm finds profitable to accept and which yields the maximal (expected) benefit for the society.
 
