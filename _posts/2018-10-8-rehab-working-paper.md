@@ -3,7 +3,7 @@ layout: post
 title: "Working paper: Extraction and rehabilitation"
 author: "Pauli Lappi"
 categories: journal
-tags: [post]
+tags: [documentation,sample]
 image: rehab-figure.jpg
 ---
 It has been some time since I have posted anything here since I was rather busy during the summer with the conferences and other (even nicer) stuff. One of the happy news I got 
