@@ -25,4 +25,4 @@ a tax instrument should be applied. The optimal tax has the following three-part
 Without the lump-sum component rehabilitation (or the polluted site clean-up) will not be completed, which leads to welfare loss. Similarly, just requiring the firm to pay the lump-sum component results in welfare loss
 because then the extraction rate and pollution generation during the production stage are too high. All three parts are needed. 
 
-If you want to read more, you can download the working paper [here](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf).
+If you want to read more, you can download the working paper [soon](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (I'm currently revising the paper!). 
