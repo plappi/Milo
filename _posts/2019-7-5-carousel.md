@@ -23,8 +23,8 @@ Association for Energy Economics [(IAEE)](https://iaee2019.org/) Annual Conferen
 
 I recommend
 their conference for those interested in natural resources and mathematical modeling, and for those who agree that policy advices for the improved
-management our resources are best drawn together with other disciplines.
+management of our resources are best drawn together with other disciplines.
 
-Oh, and to avoid any misunderstandings, that's Montreal, not Turku, in the cover image... (but I like both!)
+Oh, and to avoid any misunderstandings, that's Montreal, not Turku, in the cover image... (but I like them both!)
 
 
