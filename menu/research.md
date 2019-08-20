@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+[CV](https://plappi.github.io/Milo/assets/CV_Pauli_Lappi_July2019.pdf)
+
 **Published:**
 
 * Pauli Lappi (2019), "On the Non-compliance of a Polluting Mine under an Emission Tax", Strategic Behavior and the Environment: Vol. 8: No. 1, pp 33-71. [http://dx.doi.org/10.1561/102.00000090](http://dx.doi.org/10.1561/102.00000090)
