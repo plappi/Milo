@@ -11,7 +11,7 @@ title: Research
 
 **Working papers:**
 
-* Pauli Lappi, [A model of optimal extraction and site reclamation](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf)
+* Pauli Lappi, [A model of optimal extraction and site reclamation](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (older title: A model of optimal extraction and rehabilitation)
 
 * Pauli Lappi, "On optimal extraction under asymmetric information over reclamation costs"
 
