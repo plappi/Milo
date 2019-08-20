@@ -11,7 +11,7 @@ title: Research
 
 **Working papers:**
 
-* Pauli Lappi, [A model of optimal extraction and site reclamation](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (older title: A model of optimal extraction and rehabilitation)
+* Pauli Lappi, ["A model of optimal extraction and site reclamation"](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (older title: A model of optimal extraction and rehabilitation)
 
 * Pauli Lappi, "On optimal extraction under asymmetric information over reclamation costs"
 
@@ -41,6 +41,6 @@ title: Research
 
 **Other:**
 
-* Newsletter related to A model of  optimal extraction and site rehabilitation in [EAERE magazine](https://www.eaere.org/wp-content/uploads/2019/03/EAERE-Magazine_n.3-Fall-2018.pdf) (Autumn 2018, Issue 3)
-* Newsletter related to On optimal extraction under asymmetric information over reclamation costs in the Energy Forum (IAEE, to appear)
-* (In Finnish) ''Kaivosten sääntelyä uudistettava'', Helsingin Sanomat, Vieraskynä, 9.1.2019
+* Newsletter related to "A model of  optimal extraction and site rehabilitation" in [EAERE magazine](https://www.eaere.org/wp-content/uploads/2019/03/EAERE-Magazine_n.3-Fall-2018.pdf) (Autumn 2018, Issue 3)
+* Newsletter related to "On optimal extraction under asymmetric information over reclamation costs" in the Energy Forum (IAEE, to appear)
+* (In Finnish) ["Suomen kaivosten sääntelyä on uudistettava"](https://www.hs.fi/mielipide/art-2000005959201.html), Helsingin Sanomat, Vieraskynä, 9.1.2019
