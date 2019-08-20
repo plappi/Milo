@@ -30,14 +30,14 @@ title: Research
 	* 	XX Annual BIOECON Conference, September 12-13, 2018. Cambridge	
 *  Pauli Lappi, "A model of optimal extraction and rehabilitation". Presented in: World Congress of Environmental and Resource Economists, June 25-June 29, 2018. Gothenburg
 
-**Workshop and seminar presentations**
+**Workshop and seminar presentations:**
 
 * NAERE-workshop, 2019. Copenhagen
 * CIREQ-seminar, 2018. Montreal 
 * NAERE-workshop, 2018. Bergen
 * Ca' Foscari University of Venice, 2018. Venice 
 
-**Other**
+**Other:**
 
 * Newsletter related to A model of  optimal extraction and site rehabilitation in [EAERE magazine](https://www.eaere.org/wp-content/uploads/2019/03/EAERE-Magazine_n.3-Fall-2018.pdf) (Autumn 2018, Issue 3)
 * Newsletter related to On optimal extraction under asymmetric information over reclamation costs in the Energy Forum (IAEE, to appear)
