@@ -15,7 +15,7 @@ title: Research
 
 * Pauli Lappi, "On optimal extraction under asymmetric information over reclamation costs"
 
-* Pauli Lappi, Jussi Lintunen, "On optimal nuclear waste disposal"
+* Pauli Lappi, Jussi Lintunen, "From cradle to grave? On optimal nuclear waste disposal"
 
 **Work in progress:**
 
