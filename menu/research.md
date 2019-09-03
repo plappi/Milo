@@ -42,5 +42,5 @@ title: Research
 **Other:**
 
 * Newsletter related to "A model of  optimal extraction and site rehabilitation" in [EAERE magazine](https://www.eaere.org/wp-content/uploads/2019/03/EAERE-Magazine_n.3-Fall-2018.pdf) (Autumn 2018, Issue 3)
-* Newsletter related to "On optimal extraction under asymmetric information over reclamation costs" in the [IAEE Energy Forum](https://www.iaee.org/documents/2019EnergyForumSI.pdf)
+* Newsletter related to "On optimal extraction under asymmetric information over reclamation costs" in the [IAEE Energy Forum](https://www.iaee.org/documents/2019EnergyForumSI.pdf) (to appear, scroll down to page 37)
 * (In Finnish) ["Suomen kaivosten sääntelyä on uudistettava"](https://www.hs.fi/mielipide/art-2000005959201.html), Helsingin Sanomat, Vieraskynä, 9.1.2019
