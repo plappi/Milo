@@ -23,6 +23,7 @@ title: Research
 
 **Conference presentations:**
 
+* Pauli Lappi, "Lobbying and environmental policy instruments". Presented in: XXI Annual BIOECON Conference, September 11-13, 2019. Wageningen	
 * Pauli Lappi, Jussi Lintunen, "On Optimal Nuclear Waste Disposal". Presented in: Annual Conference of the European Association of Environmental and Resource Economists, June 26-29, 2019. Manchester
 *  Pauli Lappi, "On the optimal extraction under asymmetric information over reclamation costs". Presented in: 
 	*  European Meeting on Game Theory, SING, July 2-4, 2019. Turku
