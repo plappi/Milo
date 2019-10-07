@@ -9,9 +9,10 @@ title: Research
 
 * Pauli Lappi (2019), "On the Non-compliance of a Polluting Mine under an Emission Tax", Strategic Behavior and the Environment: Vol. 8: No. 1, pp 33-71. [http://dx.doi.org/10.1561/102.00000090](http://dx.doi.org/10.1561/102.00000090)
 
-**Working papers:**
+* Pauli Lappi, ["A model of optimal extraction and site reclamation"](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (older title: A model of optimal extraction and rehabilitation) Accepted to Resource and Energy Economics
 
-* Pauli Lappi, ["A model of optimal extraction and site reclamation"](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (older title: A model of optimal extraction and rehabilitation)
+
+**Working papers:**
 
 * Pauli Lappi, "On optimal extraction under asymmetric information over reclamation costs"
 
