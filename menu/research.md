@@ -7,7 +7,7 @@ title: Research
 
 **Published:**
 
-* Pauli Lappi (2019), "On the Non-compliance of a Polluting Mine under an Emission Tax", Strategic Behavior and the Environment: Vol. 8: No. 1, pp 33-71. [http://dx.doi.org/10.1561/102.00000090](http://dx.doi.org/10.1561/102.00000090)
+* Pauli Lappi (2019), "On the non-compliance of a polluting mine under an emission tax", Strategic Behavior and the Environment: Vol. 8: No. 1, pp 33-71. [http://dx.doi.org/10.1561/102.00000090](http://dx.doi.org/10.1561/102.00000090)
 
 * Pauli Lappi, ["A model of optimal extraction and site reclamation"](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (older title: A model of optimal extraction and rehabilitation) Accepted to Resource and Energy Economics
 
@@ -25,7 +25,7 @@ title: Research
 **Conference presentations:**
 
 * Pauli Lappi, "Lobbying and environmental policy instruments". Presented in: XXI Annual BIOECON Conference, September 11-13, 2019. Wageningen	
-* Pauli Lappi, Jussi Lintunen, "On Optimal Nuclear Waste Disposal". Presented in: Annual Conference of the European Association of Environmental and Resource Economists, June 26-29, 2019. Manchester
+* Pauli Lappi, Jussi Lintunen, "On optimal nuclear waste disposal". Presented in: Annual Conference of the European Association of Environmental and Resource Economists, June 26-29, 2019. Manchester
 *  Pauli Lappi, "On the optimal extraction under asymmetric information over reclamation costs". Presented in: 
 	*  European Meeting on Game Theory, SING, July 2-4, 2019. Turku
 	*  International Association of Energy Economics, International Conference, May 29-June 1, 2019. Montreal
