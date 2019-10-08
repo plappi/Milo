@@ -14,25 +14,25 @@ title: Research
 
 **Working papers:**
 
-* Pauli Lappi, "On optimal extraction under asymmetric information over reclamation costs"
+* "On optimal extraction under asymmetric information over reclamation costs"
 
-* Pauli Lappi, Jussi Lintunen, "From cradle to grave? On optimal nuclear waste disposal" (older title: On optimal nuclear waste disposal)
+* "From cradle to grave? On optimal nuclear waste disposal" with Jussi Lintunen (older title: On optimal nuclear waste disposal)
 
 **Work in progress:**
 
-* Pauli Lappi, "Lobbying and environmental policy instruments"
+* "Lobbying and environmental policy instruments"
 
 **Conference presentations:**
 
-* Pauli Lappi, "Lobbying and environmental policy instruments". Presented in: XXI Annual BIOECON Conference, September 11-13, 2019. Wageningen	
-* Pauli Lappi, Jussi Lintunen, "On optimal nuclear waste disposal". Presented in: Annual Conference of the European Association of Environmental and Resource Economists, June 26-29, 2019. Manchester
-*  Pauli Lappi, "On the optimal extraction under asymmetric information over reclamation costs". Presented in: 
+* "Lobbying and environmental policy instruments". Presented in: XXI Annual BIOECON Conference, September 11-13, 2019. Wageningen	
+* "On optimal nuclear waste disposal" with Jussi Lintunen. Presented in: Annual Conference of the European Association of Environmental and Resource Economists, June 26-29, 2019. Manchester
+* "On the optimal extraction under asymmetric information over reclamation costs". Presented in: 
 	*  European Meeting on Game Theory, SING, July 2-4, 2019. Turku
 	*  International Association of Energy Economics, International Conference, May 29-June 1, 2019. Montreal
 	* 	World Conference on Natural Resource Modeling, May 22-24, 2019. Montreal
 	* 	Italian Association of Environmental and Resource Economics Conference, February 7-8, 2019. Udine
 	* 	XX Annual BIOECON Conference, September 12-13, 2018. Cambridge	
-*  Pauli Lappi, "A model of optimal extraction and rehabilitation". Presented in: World Congress of Environmental and Resource Economists, June 25-June 29, 2018. Gothenburg
+*  "A model of optimal extraction and rehabilitation". Presented in: World Congress of Environmental and Resource Economists, June 25-June 29, 2018. Gothenburg
 
 **Workshop and seminar presentations:**
 
