@@ -14,13 +14,13 @@ title: Research
 
 **Working papers:**
 
-* "On optimal extraction under asymmetric information over reclamation costs"
+* "On optimal extraction under asymmetric information over reclamation costs", revise and resubmit, Journal of Economic Dynamics and Control
 
-* "From cradle to grave? On optimal nuclear waste disposal" with Jussi Lintunen (older title: On optimal nuclear waste disposal)
+* "From cradle to grave? On optimal nuclear waste disposal" with Jussi Lintunen, submitted (older title: On optimal nuclear waste disposal)
 
 **Work in progress:**
 
-* "Lobbying and environmental policy instruments"
+* "On the choice between price and quantity instrument under endogenous lobby formation" (older title: Lobbying and environmental policy instruments)
 
 **Conference presentations:**
 
@@ -36,6 +36,7 @@ title: Research
 
 **Workshop and seminar presentations:**
 
+* HGSE Environmental Economics seminar, 2019. Helsinki
 * NAERE-workshop, 2019. Copenhagen
 * CIREQ-seminar, 2018. Montreal 
 * NAERE-workshop, 2018. Bergen
