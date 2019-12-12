@@ -29,7 +29,7 @@ Abstract: "*This paper analyses socially optimal nuclear plant operation and nuc
 
 * "On the choice between price and quantity instrument under endogenous lobby formation" (older title: Lobbying and environmental policy instruments) <br/>
 <br/>
-Abstract: "*The choice between emission tax and emission quotas and the choice on the level of the instrument is analyzed in a political economy framework with endogenous lobby formation. The polluting firms can influence the choice between these instruments in addition to the level of the instrument, and choose whether to take part in the lobby group. %The equilibrium of the multi-stage game is characterized. 
+Abstract: "*The choice between emission tax and emission quotas and the choice on the level of the instrument is analyzed in a political economy framework with endogenous lobby formation. The polluting firms can influence the choice between these instruments in addition to the level of the instrument, and choose whether to take part in the lobby group. 
 It is shown that if some of the firms do participate in the lobby group, then the level of either instrument is different from the level that results in the social optimum. Sufficient conditions for the existence of non-null lobby group are presented in addition to a condition that results in a group that consists of firms with the lowest participation costs.  Furthermore, it is shown with specific function forms that the firms who expect to be lobbyists will unambiguously favor a quantity instrument over a price instrument, and can induce the regulator to choose this instrument.*"
 
 * "Lobbying for size and slice of the quota"
